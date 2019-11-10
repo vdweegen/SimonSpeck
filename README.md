@@ -1,2 +1,2 @@
 # SimonSpeck
-Simon and Speck implemenations
+Simon and Speck implementations
